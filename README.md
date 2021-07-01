@@ -1,7 +1,7 @@
 ```
 > Heya! (^o^)/
 > I'm a software engineer from Germany.
-> Sometimes I write code, sometimes I help others becoming better coders.
+> Sometimes I write code, sometimes I help others become better coders.
 
 > At the moment, I use a lot of TypeScript.
 > There are so many great languages though!
